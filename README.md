@@ -10,7 +10,7 @@ from leikmadur_teymi_X import *
 </code>
   
 Then add to the bottom of the file:
-<p><code>
+<p>
 model_1 = [] &nbs
 model_1.append(leikmadur_teymi_Xa(1)) __
 model_1.append(leikmadur_teymi_Xb(1)) __
@@ -18,7 +18,7 @@ model_1.append(leikmadur_teymi_Xb(1)) __
 model_2 = []  
 model_2.append(leikmadur_teymi_Xa(2))  
 model_2.append(leikmadur_teymi_Xb(2))  
-</code></p>
+</p>
 
 Here I assume you have two classes in your file **leikmadur_teymi_Xa** and **leikmadur_teymi_Xb**
 
