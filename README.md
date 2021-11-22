@@ -1,6 +1,6 @@
 # Sequence competition
 
-Each team **X** should submit their own **leikmadur_teymi_X.py** class file, see example of *Random* player and *SelfPlay100* player with leikamdur_teymi_7.py
+Each team **X** should submit their own **leikmadur_teymi_X.py** class file, see example of *Random* player and *SelfPlay100* player within leikamdur_teymi_7.py
 I assume all the binary files you need to load will be in the folder **./teymiX/** 
 
 To try out you player you can use the compete.py file, you will need to add the lines to the code
