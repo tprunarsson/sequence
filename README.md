@@ -8,8 +8,10 @@ To try out you player you can use the compete.py file, you will need to add the 
 <code>
 from leikmadur_teymi_X import * 
 </code>
-  
+
+<p>
 Then add to the bottom of the file:
+</p>
 
 <p>
   
