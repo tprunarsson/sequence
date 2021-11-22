@@ -11,9 +11,9 @@ from leikmadur_teymi_X import *
   
 Then add to the bottom of the file:
 <p>
-model_1 = [] &nbs
-model_1.append(leikmadur_teymi_Xa(1)) __
-model_1.append(leikmadur_teymi_Xb(1)) __
+model_1 = [] 
+model_1.append(leikmadur_teymi_Xa(1))  
+model_1.append(leikmadur_teymi_Xb(1))  
   
 model_2 = []  
 model_2.append(leikmadur_teymi_Xa(2))  
